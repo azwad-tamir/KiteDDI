@@ -27,3 +27,15 @@ The key contributions and novelty of this work are outlined below:
 * The proposed architecture shows better performance at low data settings compared to the main benchmark method.
 
 ![Alt text](./Full_model_cropped.jpg?raw=true "Block diagram for the full model architecture.")
+
+## Execution Instructions:
+>> Download the following Python packages in the environment:
+* numpy==1.26.4
+* pandas==2.2.2
+* torch==2.2.2+cu121
+* tqdm==4.66.2
+* rdkit-pypi==2022.9.5
+* scikit-learn==1.5.1
+
+>> Download the dataset and model files from the following link:
+>> Execute the following command in the terminal
