@@ -26,4 +26,4 @@ The key contributions and novelty of this work are outlined below:
 * The proposed algorithm only requires 2 inputs (KG and SMILES) as opposed to the main benchmark model which requires five (KG, SMILES, MPNN, AFP, WEAVE). These other inputs need to be generated using separate full-scale algorithms raising the dependency of the method on other models.
 * The proposed architecture shows better performance at low data settings compared to the main benchmark method.
 
-![Alt text](./Full_model_cropped.pdf?raw=true "Block diagram for the full model architecture.")
+![Alt text](./Full_model_cropped.jpg?raw=true "Block diagram for the full model architecture.")
