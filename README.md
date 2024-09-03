@@ -37,5 +37,10 @@ The key contributions and novelty of this work are outlined below:
 * rdkit-pypi==2022.9.5
 * scikit-learn==1.5.1
 
->> Download the dataset and model files from the following link:
->> Execute the following command in the terminal
+>> Download the dataset and model files from the following link: https://drive.google.com/file/d/1NruJncBFRWO_wgIQtyvnqT-1RDl7mz5_/view?usp=sharing
+
+>> Extract the data and model files from cloud storage and paste them into the main home directory of the project
+
+>> Execute the following command in the terminal to load the model and evaluate the performance of the model on any of the two datasets: python kiteddi_db1_eval.py
+
+>> The results of the experiments will be stored in the ./results folder
